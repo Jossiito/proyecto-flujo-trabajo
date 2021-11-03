@@ -1,2 +1,5 @@
 #Voy a ignorar el archivo b.txt
 b.txt
+#Ignorar todos los archivos data menos el 01
+data0?.txt
+!data01.txt
